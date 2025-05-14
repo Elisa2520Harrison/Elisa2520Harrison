@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elisa2520Harrison
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently learning fontend development with HTML, JavaScript and CSS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me elizabethtemi1@gmail.com
 
