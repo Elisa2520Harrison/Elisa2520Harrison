@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Elisa2520Harrison
+- You can call me Yelisaveta, Elisa or Yelisa😁
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning fontend development with HTML, JavaScript and CSS
 - 💞️ I’m looking to collaborate on projects
