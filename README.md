@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elisa2520Harrison
-- You can call me Yelisaveta, Elisa or Yelisa😁
+- You can call me Yelisaveta, Elisa😁
 - 👀 I’m interested in programming
 🌱 I’m a Frontend Developer skilled in HTML, CSS, JavaScript, React, and Tailwind CSS, and I’m currently
 learning PHP and Laravel to broaden my stack and grow into a full-stack developer.
